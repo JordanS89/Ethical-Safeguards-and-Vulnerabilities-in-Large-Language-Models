@@ -1,1 +1,1 @@
-# Ethical-Safeguards-and-Vulnerabilities-in-Large-Language-Models
+# Ethical Safeguards and Vulnerabilities in Large Language Models
